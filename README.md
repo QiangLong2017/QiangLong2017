@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @QiangLong2017
-- 👀 I’m interested in optimization and machine learning
-- 🌱 I’m currently learning deep reinforcement learning
-- 💞️ I’m looking to collaborate on deep reinforcement learning
+- 👋 Hi, we are a team in SouthWest University of Science and Technology (SWUST), Mianyang China.
+- 👀 Our research focus on optimization and machine learning.
+- 🌱 We are currently working on deep reinforcement learning and its application.
+- 💞️ We are looking forward to collaborate with you on any related topics.
 - 📫 How to reach me 27131375@qq.com
 
 <!---
